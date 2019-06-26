@@ -1,5 +1,5 @@
 #NAMES:
-Fadi Armoush
-Saji Jildeh
-Mohannad Tobasi
+Fadi Armoush,
+Saji Jildeh,
+Mohannad Tobasi,
 Yazan Takhman
